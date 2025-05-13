@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "simBKMRdata"]
 	path = simBKMRdata
-	url = https://github.com/cran/simBKMRdata
+	url = https://github.com/khasa006/simbkmrdata
